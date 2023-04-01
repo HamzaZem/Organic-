@@ -785,7 +785,7 @@ input:focus {
 
 /* Start News Letter */
 .news-letter .content {
-    background-image: url(/Images/newsLetter-img.jpg);
+    background-image: url(../Images/newsLetter-img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 2rem;
