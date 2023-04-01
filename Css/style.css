@@ -621,7 +621,7 @@ input:focus {
 /* Start Wo Whe Are */
 .whoWeAre {
     position: relative;
-    background-image: url(/Images/friendly-img.jpg);
+    background-image: url(Images/friendly-img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
