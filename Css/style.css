@@ -491,7 +491,7 @@ input:focus {
 
 /* Start Testimonials */
 .testimonials {
-    background-image: url("https://raw.githubusercontent.com/HamzaZem/Organic-/main/Images/newsLetter-img.jpg");
+    background-image: url("../Images/testimonials-bg.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
