@@ -491,7 +491,7 @@ input:focus {
 
 /* Start Testimonials */
 .testimonials {
-    background-image: url("Images/testimonials-bg.png");
+    background-image: url("../Images/testimonials-bg.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -621,7 +621,7 @@ input:focus {
 /* Start Wo Whe Are */
 .whoWeAre {
     position: relative;
-    background-image: url("Images/friendly-img.jpg");
+    background-image: url("../Images/friendly-img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
